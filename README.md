@@ -10,7 +10,7 @@ Ability to add obstacles to observe algorithm adaptability.
 ## Getting Started
 ### Installation
 Clone the repository to your local machine:
-`git clone https://github.com/your-username/pathfinding-visualization.git`
+`git clone https://github.com/timfmjones/Pathfinding-Algorithm-Visualizer.git`
 
 ### Change to the project directory:
 `cd pathfinding-visualization`
@@ -22,7 +22,7 @@ Clone the repository to your local machine:
 ### Running the App
 Start the development server:
 `npm start`
-Open your browser and navigate to http://localhost:3000 to view the app.
+Open your browser and navigate to http://localhost:4200 to view the app.
 
 ## Usage
 ### Selecting Algorithms
